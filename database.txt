@@ -21,5 +21,5 @@ twitch 트위치;Emmanuelle_Pichon;GIGN;10/12;28;프랑스_낭시;공격;2
 montagne 몽타뉴;Gilles_Touré;GIGN;10/11;51;보르도;공격;3
 thermite 써마이트;Jordan_Trace;SWAT;03/14;35;텍사스_플라노;공격;2
 ash 애쉬;Eliza_Cohen;SWAT;12/23;33;이스라엘_예루살렘;공격;1
-thatcher 대처;Mike_Baker;;;;;공격;
-sledge 슬레지;;;;;;공격;
+thatcher 대처;Mike_Baker;SAS;06/22;58;비드포드;공격;2
+sledge 슬레지;Seamus_Cowden;SAS;04/02;35;스코틀랜드,존_오그로우츠;공격;2
