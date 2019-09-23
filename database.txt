@@ -4,22 +4,22 @@ gridlock 그리드락;Tori_Tallyo_Fairous;SASR;08/05;36;호주,센트럴_퀸즐�
 nomad 노마드;Sanaa_El_Maktoub;GIGR;07/27;39;마라케시,모로코;공격;2;Airjab_Launcher;기압탄_발사기
 maverick 매버릭;Erik_Thorn;THE_UNIT;04/20;36;매사추세츠_보스턴;공격;1;Breaching_Torch'Suri';돌파용_토치'수리'
 lion 라이언;Olivier_Flament;GIGN;08/29;34;프랑스_툴루즈;공격;2;EE-ONE-D;움직임_감지_드론
-finka 핀카;Lera_Melnikova;Spetnaz;06/07;30;벨로루시_고멜;공격;2;Adrenal_Surge;아드레날린 분출
-dokkaebi 도깨비;Grace_Nam;707th_SMB;02/02;31;대한민국_서울;공격;2;Logic Bomb;논리 폭탄
+finka 핀카;Lera_Melnikova;Spetnaz;06/07;30;벨로루시_고멜;공격;2;Adrenal_Surge;아드레날린_분출
+dokkaebi 도깨비;Grace_Nam;707th_SMB;02/02;31;대한민국_서울;공격;2;Logic_Bomb;논리_폭탄
 zofia 조피아;Zofia_Bosak;GROM;01/28;38;폴란드_브로츨라프;공격;2;KS79_Lifeline;KS79_생명선
 ying 잉;Siu_Mei_Lin;SDU;07/12;36;홍콩_중심부;공격;2;Candela;칸델라
 jackal 자칼;Ryad_Ramírez_Al-Hassar;GEO;02/29;51;스페인_세우타;공격;2;Eyenox_Model_III;아이녹스_모델_III
-hibana 히바나;Yumiko_Imagawa;SAT;07/12;36;일본_나고야;공격;1;X-KAIROS
+hibana 히바나;Yumiko_Imagawa;SAT;07/12;36;일본_나고야;공격;1;X-KAIROS;_
 capitao 카피탕;Vicente_Souza;BOPE;11/17;52;브라질_노바이구아수;공격;1;Tactical_Crossbow;전술_크로스보우
 blackbeard 블랙비어드;Craig_Jenson;Navy_Seal;03/12;34;워싱턴_벨뷰;공격;2;Rifle-Shield;소총_방패
 buck 벅;Sebastien_Côté;JTF2;08/20;39;퀘벡_몬트리올;공격;2;SK_4-12'Skeleton_Key';SK_4-12_부착식_산탄총
-glaz 글라즈;Timur_Glazkov;Spetnaz;07/02;30;러시아,블라디보스토크;공격;2;Flip Sight;접이식 조준기
+glaz 글라즈;Timur_Glazkov;Spetnaz;07/02;30;러시아,블라디보스토크;공격;2;Flip_Sight;접이식_조준기
 fuze 퓨즈;Shuhrat_Kessikbayev;Spetnaz;10/12;34;우즈베키스탄_사마르칸트;공격;3;Cluster_Charge;접착식_집속탄
 iq 아이큐;Monika_Weiss;GSG9;08/01;40;라이프치히;공격;1;RED_MK_III'감시자';RED_MK_III'Spectre'
-blitz 블리츠;Elias_Kötz;GSG9;04/02;39;브레멘;공격;2;G52_Flash Shield;G52_섬광_방패
+blitz 블리츠;Elias_Kötz;GSG9;04/02;39;브레멘;공격;2;G52_Flash_Shield;G52_섬광_방패
 twitch 트위치;Emmanuelle_Pichon;GIGN;10/12;28;프랑스_낭시;공격;2;RSD_Model_1_Shock_Drone;RSD_모델_1_감전_드론
 montagne 몽타뉴;Gilles_Touré;GIGN;10/11;51;보르도;공격;3;Extendable_Shield'Le_Roc';방패'암벽'
 thermite 써마이트;Jordan_Trace;SWAT;03/14;35;텍사스_플라노;공격;2;브림스톤_BC-3_발열성_폭약;Brimstone_BC-3_Exothermic_Charge
 ash 애쉬;Eliza_Cohen;SWAT;12/23;33;이스라엘_예루살렘;공격;1;M120_CREM_Breaching_Rounds;M120_CREM_파괴탄
 thatcher 대처;Mike_Baker;SAS;06/22;58;비드포드;공격;2;EG_Mk0_EMP_Grenade;EG_Mk0_EMP_수류탄
-sledge 슬레지;Seamus_Cowden;SAS;04/02;35;스코틀랜드,존_오그로우츠;공격;2;추가바람;추가바람
+sledge 슬레지;Seamus_Cowden;SAS;04/02;35;스코틀랜드,존_오그로우츠;공격;2;Tactical_Breaching_Hammer'The_Caber';진입용_파쇄_망치'파괴자'
