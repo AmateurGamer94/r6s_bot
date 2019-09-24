@@ -2,7 +2,7 @@ import discord
 import codecs
 import datetime
 
-token = 'NjE5Mzc4NTk0NTE0NDY4ODY0.XYjJxA.Dpn-9DxEVgycN07Z3UuR6XC8iuw'
+token = 'NjE5Mzc4NTk0NTE0NDY4ODY0.XYmO8w.QQGTaeIkucKl6pXET8sfq4RRwdg'
 f = codecs.open('database.txt', 'r', 'utf-8').readlines()
 color = 0x888888
 commands = {}
@@ -32,8 +32,8 @@ class MyClient(discord.Client):
                 code[3], code[2], code[4], code[5], code[6], code[7], code[8][0], code[8][1]), color=color)
             ms1.set_thumbnail(url=url % ('profiles', code[0].lower()))
             ms1.set_image(url=url % ('portrait', code[0].lower()))
-            ms2 = discord.Embed(title='특수 능력\n%s %s' % (
-                code[9], code[10]), description='추가바람~~', color=color)
+            ms2 = discord.Embed(title='특수 능력\n%s' % (
+                code[9]), description='추가바람~~', color=color)
             ms2.set_thumbnail(url=url % ('skill_icon', code[0].lower()))
             ms2.set_image(url=url % ('skill', code[0].lower()))
             now = datetime.datetime.now()
